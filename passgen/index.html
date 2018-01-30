@@ -1,0 +1,155 @@
+<!doctype html>
+<head>
+	<style type="text/css" media="all">
+		td, th {
+			border: 1px solid black;
+			padding-left:4px;
+		}
+		tr:nth-child(even) {
+			background: #d9d9d9;
+		}
+		th {
+			background: #d3d3d3;
+		}
+		table {
+			border-collapse: collapse;
+			border:1px solid black;
+			min-width:700px;
+		}
+		tbody {
+			font-family:Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New;
+		}
+		#symbols {
+			width:250px;
+		}
+	</style>
+
+	<style type="text/css" media="print">
+		table {
+			page-break-inside: avoid;
+		}
+		tr,th,td {
+			height:31px;
+		}
+		table {
+			table-layout: fixed;
+			width:100%;
+		}
+		#params {
+			display:none;
+		}
+		@page:left{
+  			@bottom-left {
+    			content: "Page " counter(page) " of " counter(pages);
+  			}
+		}
+	</style>
+
+	<script>
+
+	function getWord(words,length){
+		word = words[Math.floor(Math.random()*words.length)].trim();
+		while(word.length != length){
+			word = words[Math.floor(Math.random()*words.length)].trim();
+		}
+		return word;
+	}
+
+	function getSymbols(){
+
+	}
+
+	function generate(){
+		// var min = document.getElementById('min').value;
+		var num = document.getElementById('listSize').value;
+
+		var xhr = new XMLHttpRequest();
+		xhr.onreadystatechange = function() {
+			if (this.readyState == 4 && this.status == 200) {
+				var file = this.responseText;
+
+				var words = file.split('\n');
+				var symbols = document.getElementById('symbols').value.split('');
+				// var symbols = ['.','@','#','$','%','&','!','?',':','*','^','_','-','+','=','~']
+				// var symbols = ["0","1","2","3","4","5","6","7","8","9",".","!","@","&","*"];
+
+				table = document.getElementById('passwordTable');
+
+				if (document.getElementById('tbody') != null){
+					table.removeChild( document.getElementById('tbody') );
+				} 
+
+				var tbody = document.createElement('tbody');
+				tbody.id = "tbody"
+
+				for (i = 0; i < num; i++) {
+					tr = document.createElement('tr');
+					var td = document.createElement('td');
+					td.innerHTML = i+1;
+					td.style.padding = "7px";
+					tr.appendChild(td);
+
+					// var password = "";
+					// password += words[Math.floor(Math.random()*words.length)].trim();
+
+					// while (password.length < min) {
+					// 	password += symbols[Math.floor(Math.random()*symbols.length)];
+					// 	password += words[Math.floor(Math.random()*words.length)].trim();
+					// }
+					
+					// ccdc specific password generation
+					var password = "";
+					password += getWord(words,6);
+					password += symbols[Math.floor(Math.random()*symbols.length)];
+					password += getWord(words,7);
+					password += symbols[Math.floor(Math.random()*symbols.length)];
+					password += getWord(words,6);
+					// end ccdc-specific password generation
+
+					td = document.createElement('td');
+					td.innerHTML = password;
+					tr.appendChild(td);
+					td = document.createElement('td');
+					tr.appendChild(td);
+					td = document.createElement('td');
+					tr.appendChild(td);
+					tbody.appendChild(tr);
+					
+				}
+				table.appendChild(tbody);
+			}
+		}
+		xhr.open('GET','../passgen/6-7-words.txt',true);
+		xhr.send();
+	}
+	</script>
+</head>
+<html moznomarginboxes mozdisallowselectionprint>
+	<div id="params">
+		<div>
+			Number of passwords: <input type="text" id="listSize" value="120">
+		</div>
+		<div>
+			<label>
+				Symbols <input type="text" id="symbols" value=".@#$%&!?:*^_-+=~">
+			</label>
+		</div>
+		<div>
+			<button onclick="generate()">Generate</button>
+		</div>
+	</div>
+	<table id="passwordTable">
+		<col width="6%">
+		<col width="auto">
+		<col width="25%">
+		<col width="25%">
+		<thead>
+			<tr>
+				<th>#</th>
+				<th>password</th>
+				<th>username</th>
+				<th>service</th>
+			</tr>
+		</thead>
+	</table>
+</html>
