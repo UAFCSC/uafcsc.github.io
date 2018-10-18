@@ -906,6 +906,10 @@ a.sign-up {
   font-size: 20px;
 }
 
+.gif {
+  max-width: 150px;
+}
+
 .post-card {
   display: block;
   position: relative;
