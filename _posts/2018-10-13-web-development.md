@@ -2,6 +2,7 @@
 layout: post
 title: Web Development and Security
 featured-img: webdev
+author: Ryan Stonebraker
 categories: [Lectures]
 ---
 
