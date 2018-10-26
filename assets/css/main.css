@@ -821,6 +821,10 @@ footer a:hover, footer a:focus {
   margin: 0 auto 25px;
 }
 
+.social__link {
+  max-width: 20px;
+}
+
 .social__link:not(:last-child) {
   margin-right: 1.5rem;
 }
