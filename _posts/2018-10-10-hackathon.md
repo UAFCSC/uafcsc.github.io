@@ -32,7 +32,7 @@ The goal of this competition is to be open ended and as encompassing of all idea
 All categories will have at a minimum one winner. The winner will be decided on the second day (November 11th) at 5pm. Various things will be looked at for each of the individual categories defined above, but overall, creativity and execution of the idea will be heavily weighted.
 
 ## Prizes and Free Stuff
-Thanks to our sponsors at [CEM](http://cem.uaf.edu/){:target="_blank" rel="noopener"} and [EPSCoR](https://www.alaska.edu/epscor){:target="_blank" rel="noopener"}, we are proud to announce that we will be able to offer free food (breakfast, lunch, AND dinner) and swag for all participants of the competition. The winners of each category will receive top prizes including Creality Ender 3 3D Printers, DJI Tello Quadcopters, and Anker 20,000 mAh battery packs.
+Thanks to our sponsors at [CEM](http://cem.uaf.edu/){:target="_blank" rel="noopener"} and [EPSCoR](https://www.alaska.edu/epscor){:target="_blank" rel="noopener"}, we are proud to announce that we will be able to offer free food (breakfast, lunch, AND dinner) and swag for all participants of the competition. The winners of each category will receive top prizes including Creality Ender 3 3D Printers, DJI Tello Quadcopters, CanaKit Complete Raspberry Pi Starter Kits, and Anker 20,000 mAh battery packs.
 
 ## Alaska Startup Week
 This event will be one of the first in a series of events to take place as part of the Alaska Startup Week. To find out more about Alaska Startup Week and to see the schedule for the rest of the events, visit [here](https://alaska.startupweek.co/){:target="_blank" rel="noopener"}.
