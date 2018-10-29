@@ -1090,6 +1090,9 @@ textarea:focus {
 .form__input.error :active::after {
   width: 0%;
 }
+.form__input textarea {
+  margin-bottom: -6px;
+}
 
 .error input {
   border-bottom-color: #ff6161;
@@ -1198,6 +1201,71 @@ table td {
   border: 1px solid #ededed;
 }
 
+section.officer {
+  display: flex;
+  padding: 15px;
+}
+section.officer img {
+  max-width: 200px;
+  max-height: 200px;
+  border-radius: 50%;
+}
+section.officer section.info {
+  margin-left: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex: 1;
+}
+section.officer section.info h1 {
+  margin-bottom: 0;
+}
+section.officer section.info h2 {
+  margin: 0;
+  margin-left: 30px;
+  font-size: 15px;
+}
+section.officer section.info p {
+  margin: 0;
+  margin-top: 15px;
+}
+section.officer section.info ul.social-media {
+  padding: 0;
+  padding-bottom: 15px;
+  margin-bottom: 0;
+  display: flex;
+  list-style: none;
+  flex: 1;
+  align-items: flex-end;
+}
+section.officer section.info ul.social-media li {
+  flex: 1;
+  font-size: 30px;
+  max-width: 50px;
+  justify-content: center;
+  display: flex;
+}
+section.officer section.info ul.social-media li a {
+  text-decoration: none;
+  border: none;
+  color: black;
+}
+section.officer section.info ul.social-media li a:hover {
+  color: #0e4080;
+}
+
+section.officer:nth-child(odd) {
+  background-color: whitesmoke;
+}
+
+@media only screen and (max-width: 500px) {
+  section.officer {
+    flex-direction: column;
+  }
+  section.officer img {
+    margin: auto;
+  }
+}
 .highlight table td {
   padding: 5px;
 }
