@@ -13,6 +13,9 @@ event-date-end: 11/11/2018
 ## Summary
 The UAF Cyber Security Club will be hosting its first ever hackathon on November 10th. This event will be a chance for all students, regardless of discipline, to come together and build whatever they can imagine. There will be lots of free food, swag, and prizes during this fun and fast paced weekend, so come up with an idea for yourself or a small team, sign up [here](https://goo.gl/forms/L18cLToAfNcu6OrF3){:target="_blank" rel="noopener"}, and get ready!
 
+## Information Session
+An information session to learn more about the Hackathon will be held in the ELIF Lobby/Cafe area on Wednesday, November 7th starting at 5:15 pm. There will be free food and this will be a great chance to get an idea for a project if you don't have one already. **The first 50 people to sign up before and attend the information session will receive a free 3d printed prize!**
+
 ## Schedule
 The hackathon will run from 9 am on Saturday, November 10th to 3:30pm on Sunday, November 11th. Project presentations will occur at 4pm Sunday (just give us an informal, rough overview and demonstration of your project). Finally, winners will be announced at 5pm so stick around!
 
