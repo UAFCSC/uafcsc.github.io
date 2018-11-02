@@ -39,3 +39,12 @@ This event will be one of the first in a series of events to take place as part 
 
 ## Questions?
 Any questions regarding this event can be directed to [Ryan Stonebraker](mailto:rastonebraker@alaska.edu) or [Tristan Van Cise](mailto:tvancsise@alaska.edu).
+
+## Sponsors
+Thank you to everyone who helped make this event happen! A special thanks goes out to:
+
+![UAF College of Engineering and Mines](/assets/img/cem.png){: style="background:#003f84;border-radius:15px;max-width:30%;"}
+![EPSCoR](/assets/img/epscor.png){: style="max-width:30%;"}
+![Alaska Center ICE](/assets/img/centerice.png){: style="max-width:30%;"}
+![Alaska Startups](/assets/img/alaskastartups.png){: style="max-width:30%;"}
+![Fairbanks Economic Development Corporation](/assets/img/fedc.JPG){: style="max-width:30%;"}
