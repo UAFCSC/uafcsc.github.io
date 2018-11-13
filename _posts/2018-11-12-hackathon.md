@@ -15,10 +15,10 @@ If you attended the event in any capacity or even if you just heard about the ev
 <div><a href="https://goo.gl/forms/rRtKiH75jfTEJQi43" target="_blank" class="sign-up">Feedback Survey</a></div>
 <br />
 
-## Category Winners
-
-### 2018 UAF Hackathon Overall Winner:
+## 2018 UAF Hackathon Overall Winner:
 Monroe Morris: ***Aqua Assistant***
+
+## Category Winners
 #### Internet of Things Category Winner:
 Monroe Morris: ***Aqua Assistant - Automatic fish feeder and water equalizer built from upcycled parts***
 #### Robotics Category Winner:
