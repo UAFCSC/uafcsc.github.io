@@ -1,7 +1,7 @@
 ---
 layout: event
 title: 2018 Hackathon Highlights
-featured-img: hackathon-teamwork
+featured-img: hackathon_flamethrower
 categories: [post]
 event-date-start: 10/11/2018
 event-date-end: 11/11/2018
