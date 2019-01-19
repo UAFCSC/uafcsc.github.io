@@ -21,5 +21,11 @@ Chris Bailey, CSC President
 * [Offensive Security Metasploit guide](https://www.offensive-security.com/metasploit-unleashed/)
 * [Nmap documentation](https://nmap.org/book/man.html)
 
+## Lab Rules
+* Don't change any passwords or anything else that is likely to prevent other members from being able to get in
+* Only the 10.250.102.0/24 network is in scope, not counting .1 (the router)
+* You will be awarded points for every compromised user, every compromised machine, and every flag (note that there aren't as many as a normal CTF-type lab, and they're not in flag format. Credentials are your main goal.)
+* Don't spam Crackpipe with tasks. My GPU server isn't that powerful, and you're sharing it with everyone.
+
 ## Crackpipe
 Commands can be placed in #random or private messaged to the bot. Command format is `crackpipe hashtype hash`. Supported hash types at the moment are `ntlm` and `unix6`.
