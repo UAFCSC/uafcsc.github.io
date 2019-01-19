@@ -13,4 +13,13 @@ I hope you enjoyed your break. We're going to get this semester started with som
 CCDC regional qualifiers are coming very soon. Next week we'll be going over incident response, and the week after will be our second practice competition, after which we'll be announcing team selections. We'll be sending more information about that over the next few weeks.
 
 We hope to see you there.
+
 Chris Bailey, CSC President
+
+## Reference Materials
+* [Metasploit source code](https://github.com/rapid7/metasploit-framework) (it's fairly well organized and understandable)
+* [Offensive Security Metasploit guide](https://www.offensive-security.com/metasploit-unleashed/)
+* [Nmap documentation](https://nmap.org/book/man.html)
+
+## Crackpipe
+Commands can be placed in #random or private messaged to the bot. Command format is `crackpipe hashtype hash`. Supported hash types at the moment are `ntlm` and `unix6`.
