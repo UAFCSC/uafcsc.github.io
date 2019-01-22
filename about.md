@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-The University of Alaska Fairbanks Cyber Security Club is a fun and fast-paced student organization dedicated to learning about and teaching Cyber Security concepts. We annually compete in the [Collegiate Cyber Defense Competition](https://www.nationalccdc.org/) and have won the regional At-Large event 4 times since 2014. In addition to this event, we compete in Capture the Flag events such as [CSAW](https://ctf.csaw.io/) and frequently host our own CTF's for members to get practice competing in.
+The University of Alaska Fairbanks Cyber Security Club is a fun and fast-paced student organization dedicated to learning about and teaching Cyber Security concepts. We annually compete in the [Collegiate Cyber Defense Competition](https://www.nationalccdc.org/) and have won the regional At-Large event 4 times since 2014. In addition to this event, we compete in Capture the Flag events such as [CSAW](https://ctf.csaw.io/) and frequently host our own CTF's for members to get practice competing in. Come join us almost every Saturday at 1 pm in Duckering 530.
 
 ### Our dedicated officers this year are:
 
