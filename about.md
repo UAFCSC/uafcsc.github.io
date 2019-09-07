@@ -11,13 +11,12 @@ The University of Alaska Fairbanks Cyber Security Club is a fun and fast-paced s
 <section class="officer">
   <img src="/assets/img/uafcsc-notext.png">
   <section class="info">
-    <h1>Chris Bailey</h1>
+    <h1>Tristan Van Cise</h1>
     <h2>President</h2>
-    <p></p>
+    <p>Tristan Van Cise is an MS student focusing on virtual reality and drone computer vision. He has been a member of two winning ALCCDC teams in 2017 and 2018 as a Windows system administrator. Outside of the club, Tristan enjoys 3D printing, robotics, IOT/DIY projects, and game development.</p>
     <ul class="social-media">
-    <li><a href="mailto:chris@chrisbailey.io" target="_blank" rel="noopener"><i class="fas fa-envelope"></i></a></li>
-      <li><a href="https://github.com/FineTralfazz" target="_blank" rel="noopener"><i class="fab fa-github"></i></a></li>
-      <li><a href="https://chrisbailey.io/" target="_blank" rel="noopener"><i class="fas fa-laptop"></i></a></li>
+      <li><a href="mailto:tvancise@alaska.edu" target="_blank" rel="noopener"><i class="fas fa-envelope"></i></a></li>
+      <li><a href="https://github.com/Grubbly" target="_blank" rel="noopener"><i class="fab fa-github"></i></a></li>
     </ul>
   </section>
 </section>
@@ -25,25 +24,11 @@ The University of Alaska Fairbanks Cyber Security Club is a fun and fast-paced s
 <section class="officer">
   <img src="/assets/img/uafcsc-notext.png">
   <section class="info">
-    <h1>Rohan Weeden</h1>
-    <h2>Vice President</h2>
-    <p></p>
-    <ul class="social-media">
-      <li><a href="mailto:reweeden@alaska.edu" target="_blank" rel="noopener"><i class="fas fa-envelope"></i></a></li>
-      <li><a href="https://github.com/Askaholic" target="_blank" rel="noopener"><i class="fab fa-github"></i></a></li>
-      <li><a href="https://rohanweeden.com" target="_blank" rel="noopener"><i class="fas fa-laptop"></i></a></li>
-    </ul>
-  </section>
-</section>
-
-<section class="officer">
-  <img src="/assets/img/officers/ryanstonebraker.jpg">
-  <section class="info">
     <h1>Ryan Stonebraker</h1>
-    <h2>Treasurer</h2>
-    <p>Ryan Stonebraker is an ambitious Computer Science masters student planning on focusing in Artificial Intelligence. He has worked at multiple companies and startups and has extensive experience with web development and server management, including the security risks posed to these technologies. Ryan has been a member of CSC for the past 3 years and was a member of the winning ALCCDC team in 2018.</p>
+    <h2>Vice President</h2>
+    <p>Ryan Stonebraker is an ambitious Computer Science masters student focusing in Artificial Intelligence, specifically Natural Language Understanding. He has worked at multiple companies and startups and has extensive experience with web development and server management, including the security risks posed to these technologies. Ryan has been a member of CSC for the past 4 years and was a member of the winning ALCCDC team in 2018.</p>
     <ul class="social-media">
-      <li><a href="mailto:rastonebraker@alaska.edu" target="_blank"><i class="fas fa-envelope"></i></a></li>
+      <li><a href="mailto:rastonebraker@alaska.edu" target="_blank" rel="noopener"><i class="fas fa-envelope"></i></a></li>
       <li><a href="https://github.com/RyanStonebraker" target="_blank" rel="noopener"><i class="fab fa-github"></i></a></li>
       <li><a href="https://linkedin.com/in/ryanstonebraker" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a></li>
       <li><a href="https://ryanstonebraker.com" target="_blank" rel="noopener"><i class="fas fa-laptop"></i></a></li>
@@ -54,12 +39,25 @@ The University of Alaska Fairbanks Cyber Security Club is a fun and fast-paced s
 <section class="officer">
   <img src="/assets/img/uafcsc-notext.png">
   <section class="info">
-    <h1>Tristan Van Cise</h1>
-    <h2>Secretary</h2>
-    <p>Tristan Van Cise is an MS/BS student focusing on virtual reality and drone computer vision. He has been a member of the previous two winning ALCCDC teams in 2017 and 2018 as a Windows system administrator. Outside of the club, Tristan enjoys 3D printing, robotics, IOT/DIY projects, and game development.</p>
+    <h1>Matt Perry</h1>
+    <h2>Treasurer</h2>
+    <p></p>
     <ul class="social-media">
-      <li><a href="mailto:tvancise@alaska.edu" target="_blank" rel="noopener"><i class="fas fa-envelope"></i></a></li>
-      <li><a href="https://github.com/Grubbly" target="_blank" rel="noopener"><i class="fab fa-github"></i></a></li>
+      <li><a href="mailto:rastonebraker@alaska.edu" target="_blank"><i class="fas fa-envelope"></i></a></li>
+      <li><a href="https://github.com/CyberAngler93" target="_blank" rel="noopener"><i class="fab fa-github"></i></a></li>
+    </ul>
+  </section>
+</section>
+
+<section class="officer">
+  <img src="/assets/img/uafcsc-notext.png">
+  <section class="info">
+    <h1>Bradley Morton</h1>
+    <h2>Secretary</h2>
+    <p></p>
+    <ul class="social-media">
+      <li><a href="mailto:bmmorton@alaska.edu" target="_blank" rel="noopener"><i class="fas fa-envelope"></i></a></li>
+      <li><a href="https://github.com/bradleymorton" target="_blank" rel="noopener"><i class="fab fa-github"></i></a></li>
     </ul>
   </section>
 </section>
