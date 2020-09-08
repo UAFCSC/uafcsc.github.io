@@ -41,7 +41,7 @@ The University of Alaska Fairbanks Cyber Security Club is a fun and fast-paced s
   <section class="info">
     <h1>Bradley Morton</h1>
     <h2>Treasurer</h2>
-    <p>Bradley is a statistics masters student and the CSC Treasurer. He is a lifelong Alaskan and is in his sixth year at UAF. He has bachelors degrees in mathematics and computer science from UAF.</p>
+    <p>Bradley Morton is a Statistics Masters student, having gotten Bachelors degrees in Mathematics and Computer Science. This is his fourth year in the club and his second as an officer. Bradley has interests in Security, Data Science, and Machine Learning. He enjoys working with computer networking and will tell you alll about how Linux is superior to Windows.</p>
     <ul class="social-media">
       <li><a href="mailto:bmmorton@alaska.edu" target="_blank"><i class="fas fa-envelope"></i></a></li>
       <li><a href="https://github.com/bradleymorton" target="_blank" rel="noopener"><i class="fab fa-github"></i></a></li>
