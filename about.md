@@ -25,13 +25,13 @@ The University of Alaska Fairbanks Cyber Security Club is a fun and fast-paced s
 <section class="officer">
   <img src="/assets/img/uafcsc-notext.png">
   <section class="info">
-    <h1>Nathan VanOverbeke</h1>
+    <h1>Dylan Palmieri</h1>
     <h2>Vice President</h2>
-    <p>Nathan is an A.A.S. student in at the UAF CTC in his last year of his associates networking/security program. Because he is an IT student he has a different focus than the other officers as he is more focused on IT infrastructure and networking instead of software development. In his spare time he hacks in his homelab focusing on networking mostly, but also sharpens his windows and linux skills often. Outside of that he enjoys 3D printing, video games, and camping.</p>
+    <p>Dylan is a Computer Science graduate student, currently working in the BS/MS program at UAF. This is his third year in the Cyber Security Club, where he focuses primarily on Linux Security and distros that were pronounced dead in the early 2010s. In his life outside of computer science/security, Dylan enjoys film photography, playing guitar, and PC gaming.</p>
+    <p>"One thing I've learned: you can know anything, it's all there, you just have to find it." - John Constantine, Gaiman's <i>The Sandman</i></p>
     <ul class="social-media">
-      <li><a href="mailto:ngvanoverbeke@alaska.edu" target="_blank" rel="noopener"><i class="fas fa-envelope"></i></a></li>
-      <li><a href="https://github.com/ngvanoverbeke" target="_blank" rel="noopener"><i class="fab fa-github"></i></a></li>
-      <li><a href="https://www.linkedin.com/in/nathan-vanoverbeke-7b2863179" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a></li>
+      <li><a href="mailto:dgpalmieri@alaska.edu" target="_blank" rel="noopener"><i class="fas fa-envelope"></i></a></li>
+      <li><a href="https://github.com/dgpalmieri" target="_blank" rel="noopener"><i class="fab fa-github"></i></a></li>
     </ul>
   </section>
 </section>
