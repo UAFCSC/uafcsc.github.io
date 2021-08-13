@@ -1,0 +1,65 @@
+{
+  "name": "uaf-csc",
+  "version": "1.0.0",
+  "description": "Sleek is a modern Jekyll theme focused on speed performance & SEO best practices.",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "@babel/polyfill": "^7.12.1",
+    "babel-register": "^6.26.0",
+    "fg-loadcss": "^1.3.1",
+    "gulp": "^3.9.1",
+    "jquery": "^3.5.0",
+    "lazysizes": "^5.2.1",
+    "normalize.css": "^7.0.0",
+    "picturefill": "^3.0.2",
+    "velocity-animate": "^1.5.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.6",
+    "@babel/preset-env": "^7.1.6",
+    "@babel/preset-react": "^7.0.0",
+    "@babel/register": "^7.0.0",
+    "babel-loader": "^8.0.4",
+    "babel-core": "^6.26.3",
+    "babel-preset-es2015": "^6.24.1",
+    "babelify": "^8.0.0",
+    "browser-sync": "^2.26.3",
+    "browserify": "^15.2.0",
+    "critical": "^4.0.1",
+    "eslint": "^4.19.1",
+    "eslint-config-jquery": "^1.0.1",
+    "eslint-plugin-dollar-sign": "^1.0.1",
+    "eslint-plugin-jquery": "^1.3.2",
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-responsive": "^2.11.0",
+    "gulp-sass": "^5.0.0",
+    "gulp-size": "^3.0.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.1",
+    "sw-precache": "^4.1.0",
+    "vinyl-buffer": "^1.0.1",
+    "vinyl-source-stream": "^2.0.0",
+    "webpack": "^4.25.1",
+    "webpack-cli": "^3.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janczizikow/sleek.git"
+  },
+  "keywords": [],
+  "author": "Jan Czizikow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/janczizikow/sleek/issues"
+  },
+  "homepage": "https://github.com/janczizikow/sleek#readme"
+}
