@@ -39,12 +39,12 @@ The University of Alaska Fairbanks Cyber Security Club is a fun and fast-paced s
 <section class="officer">
   <img src="/assets/img/uafcsc-notext.png">
   <section class="info">
-    <h1>Bradley Morton</h1>
+    <h1>Katlyn Lorimer</h1>
     <h2>Treasurer</h2>
-    <p>Bradley Morton is a Statistics Masters student, having gotten Bachelors degrees in Mathematics and Computer Science. This is his fourth year in the club and his second as an officer. Bradley has interests in Security, Data Science, and Machine Learning. He enjoys working with computer networking and will tell you alll about how Linux is superior to Windows.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisi lacus sed viverra tellus. Vitae proin sagittis nisl rhoncus mattis rhoncus urna. Adipiscing at in tellus integer feugiat scelerisque varius. Vel risus commodo viverra maecenas accumsan lacus. Sollicitudin nibh sit amet commodo nulla facilisi nullam vehicula.</p>
     <ul class="social-media">
-      <li><a href="mailto:bmmorton@alaska.edu" target="_blank"><i class="fas fa-envelope"></i></a></li>
-      <li><a href="https://github.com/bradleymorton" target="_blank" rel="noopener"><i class="fab fa-github"></i></a></li>
+      <li><a href="mailto:ijlorimer@alaska.edu" target="_blank"><i class="fas fa-envelope"></i></a></li>
+      <li><a href="https://github.com/katlyn/" target="_blank" rel="noopener"><i class="fab fa-github"></i></a></li>
     </ul>
   </section>
 </section>
@@ -52,12 +52,12 @@ The University of Alaska Fairbanks Cyber Security Club is a fun and fast-paced s
 <section class="officer">
   <img src="/assets/img/uafcsc-notext.png">
   <section class="info">
-    <h1>Dylan Palmieri</h1>
+    <h1>Solomon Himelbloom</h1>
     <h2>Secretary</h2>
-    <p>Dylan is a Computer Science student, currently working in the BS/MS program at UAF. This is his second year in the Cyber Security Club, where he focuses primarily on Linux Security and obscure distros. In his life outside of computer science/security, Dylan enjoys film photography, playing guitar, and PC gaming.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisi lacus sed viverra tellus. Vitae proin sagittis nisl rhoncus mattis rhoncus urna. Adipiscing at in tellus integer feugiat scelerisque varius. Vel risus commodo viverra maecenas accumsan lacus. Sollicitudin nibh sit amet commodo nulla facilisi nullam vehicula.</p>
     <ul class="social-media">
-      <li><a href="mailto:dgpalmieri@alaska.edu" target="_blank" rel="noopener"><i class="fas fa-envelope"></i></a></li>
-      <li><a href="https://github.com/dgpalmieri" target="_blank" rel="noopener"><i class="fab fa-github"></i></a></li>
+      <li><a href="mailto:sbhimelbloom@alaska.edu" target="_blank" rel="noopener"><i class="fas fa-envelope"></i></a></li>
+      <li><a href="https://github.com/TechSolomon/" target="_blank" rel="noopener"><i class="fab fa-github"></i></a></li>
     </ul>
   </section>
 </section>
