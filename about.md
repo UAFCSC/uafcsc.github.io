@@ -17,7 +17,7 @@ The University of Alaska Fairbanks Cyber Security Club is a fun and fast-paced s
     <p>"What I believe is that all clear-minded people should remain two things throughout their lifetimes: Curious and teachable." -Roger Ebert </p>
     <ul class="social-media">
       <li><a href="mailto:mperry37@alaska.edu" target="_blank" rel="noopener"><i class="fas fa-envelope"></i></a></li>
-      <li><a href="https://github.com/cyberangler93" target="_blank" rel="noopener"><i class="fab fa-github"></i></a></li>
+      <li><a href="https://github.com/mattp0" target="_blank" rel="noopener"><i class="fab fa-github"></i></a></li>
     </ul>
   </section>
 </section>
