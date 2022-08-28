@@ -11,36 +11,8 @@ The University of Alaska Fairbanks Cyber Security Club is a fun and fast-paced s
 <section class="officer">
   <img src="/assets/img/uafcsc-notext.png">
   <section class="info">
-    <h1>Matt Perry</h1>
-    <h2>President</h2>
-    <p>Matt Perry is an MS/BS student focusing on Security, Robotics, DevOps, and Data Science. This is his 3rd year with the club and 2nd as an officer. Matt has filled the role of both a Windows and Linux focused member on Regional CCDC teams. Outside the CSC club, he participates in the NASA Lunabotics Robot Mining Club. Enjoys 3D printing, raspberry pi hacking, and the occasional video game.</p>
-    <p>"What I believe is that all clear-minded people should remain two things throughout their lifetimes: Curious and teachable." -Roger Ebert </p>
-    <ul class="social-media">
-      <li><a href="mailto:mperry37@alaska.edu" target="_blank" rel="noopener"><i class="fas fa-envelope"></i></a></li>
-      <li><a href="https://github.com/mattp0" target="_blank" rel="noopener"><i class="fab fa-github"></i></a></li>
-    </ul>
-  </section>
-</section>
-
-<section class="officer">
-  <img src="/assets/img/uafcsc-notext.png">
-  <section class="info">
-    <h1>Dylan Palmieri</h1>
-    <h2>Vice President</h2>
-    <p>Dylan is a Computer Science graduate student, currently working in the BS/MS program at UAF. This is his third year in the Cyber Security Club, where he focuses primarily on Linux Security and distros that were pronounced dead in the early 2010s. In his life outside of computer science/security, Dylan enjoys film photography, playing guitar, and PC gaming.</p>
-    <p>"One thing I've learned: you can know anything, it's all there, you just have to find it." - John Constantine, Gaiman's <i>The Sandman</i></p>
-    <ul class="social-media">
-      <li><a href="mailto:dgpalmieri@alaska.edu" target="_blank" rel="noopener"><i class="fas fa-envelope"></i></a></li>
-      <li><a href="https://github.com/dgpalmieri" target="_blank" rel="noopener"><i class="fab fa-github"></i></a></li>
-    </ul>
-  </section>
-</section>
-
-<section class="officer">
-  <img src="/assets/img/uafcsc-notext.png">
-  <section class="info">
     <h1>Katlyn Lorimer</h1>
-    <h2>Treasurer</h2>
+    <h2>President</h2>
     <ul class="social-media">
       <li><a href="mailto:ijlorimer@alaska.edu" target="_blank"><i class="fas fa-envelope"></i></a></li>
       <li><a href="https://github.com/katlyn/" target="_blank" rel="noopener"><i class="fab fa-github"></i></a></li>
@@ -52,10 +24,34 @@ The University of Alaska Fairbanks Cyber Security Club is a fun and fast-paced s
   <img src="/assets/img/uafcsc-notext.png">
   <section class="info">
     <h1>Solomon Himelbloom</h1>
-    <h2>Secretary</h2>
+    <h2>Vice President</h2>
     <ul class="social-media">
       <li><a href="mailto:sbhimelbloom@alaska.edu" target="_blank" rel="noopener"><i class="fas fa-envelope"></i></a></li>
       <li><a href="https://github.com/TechSolomon/" target="_blank" rel="noopener"><i class="fab fa-github"></i></a></li>
+    </ul>
+  </section>
+</section>
+
+<section class="officer">
+  <img src="/assets/img/uafcsc-notext.png">
+  <section class="info">
+    <h1>Joy Lomelino</h1>
+    <h2>Treasurer</h2>
+    <ul class="social-media">
+      <li><a href="mailto:jmlomelino@alaska.edu" target="_blank"><i class="fas fa-envelope"></i></a></li>
+      <li><a href="https://github.com/joy-01/" target="_blank" rel="noopener"><i class="fab fa-github"></i></a></li>
+    </ul>
+  </section>
+</section>
+
+<section class="officer">
+  <img src="/assets/img/uafcsc-notext.png">
+  <section class="info">
+    <h1>Vacant</h1>
+    <h2>Secretary</h2>
+    <ul class="social-media">
+      <li><a href="mailto:csc.uaf@alaska.edu" target="_blank" rel="noopener"><i class="fas fa-envelope"></i></a></li>
+      <li><a href="https://github.com/UAFCSC/" target="_blank" rel="noopener"><i class="fab fa-github"></i></a></li>
     </ul>
   </section>
 </section>
